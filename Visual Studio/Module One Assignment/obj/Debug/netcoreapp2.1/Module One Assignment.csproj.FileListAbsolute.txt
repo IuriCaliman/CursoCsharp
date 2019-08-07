@@ -1,0 +1,11 @@
+C:\Users\IURI\source\repos\Mod1_Lab1\Module One Assignment\bin\Debug\netcoreapp2.1\Module One Assignment.deps.json
+C:\Users\IURI\source\repos\Mod1_Lab1\Module One Assignment\bin\Debug\netcoreapp2.1\Module One Assignment.runtimeconfig.json
+C:\Users\IURI\source\repos\Mod1_Lab1\Module One Assignment\bin\Debug\netcoreapp2.1\Module One Assignment.runtimeconfig.dev.json
+C:\Users\IURI\source\repos\Mod1_Lab1\Module One Assignment\bin\Debug\netcoreapp2.1\Module One Assignment.dll
+C:\Users\IURI\source\repos\Mod1_Lab1\Module One Assignment\bin\Debug\netcoreapp2.1\Module One Assignment.pdb
+C:\Users\IURI\source\repos\Mod1_Lab1\Module One Assignment\obj\Debug\netcoreapp2.1\Module One Assignment.csprojAssemblyReference.cache
+C:\Users\IURI\source\repos\Mod1_Lab1\Module One Assignment\obj\Debug\netcoreapp2.1\Module One Assignment.csproj.CoreCompileInputs.cache
+C:\Users\IURI\source\repos\Mod1_Lab1\Module One Assignment\obj\Debug\netcoreapp2.1\Module One Assignment.AssemblyInfoInputs.cache
+C:\Users\IURI\source\repos\Mod1_Lab1\Module One Assignment\obj\Debug\netcoreapp2.1\Module One Assignment.AssemblyInfo.cs
+C:\Users\IURI\source\repos\Mod1_Lab1\Module One Assignment\obj\Debug\netcoreapp2.1\Module One Assignment.dll
+C:\Users\IURI\source\repos\Mod1_Lab1\Module One Assignment\obj\Debug\netcoreapp2.1\Module One Assignment.pdb

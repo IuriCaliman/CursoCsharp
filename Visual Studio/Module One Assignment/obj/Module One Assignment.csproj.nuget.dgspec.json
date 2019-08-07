@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\IURI\\source\\repos\\Mod1_Lab1\\Module One Assignment\\Module One Assignment.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\IURI\\source\\repos\\Mod1_Lab1\\Module One Assignment\\Module One Assignment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IURI\\source\\repos\\Mod1_Lab1\\Module One Assignment\\Module One Assignment.csproj",
+        "projectName": "Module One Assignment",
+        "projectPath": "C:\\Users\\IURI\\source\\repos\\Mod1_Lab1\\Module One Assignment\\Module One Assignment.csproj",
+        "packagesPath": "C:\\Users\\IURI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IURI\\source\\repos\\Mod1_Lab1\\Module One Assignment\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\IURI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
